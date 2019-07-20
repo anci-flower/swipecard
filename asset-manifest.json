@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/swipecard/static/css/main.87f2ff25.chunk.css",
+    "main.js": "/swipecard/static/js/main.1d5a9552.chunk.js",
+    "main.js.map": "/swipecard/static/js/main.1d5a9552.chunk.js.map",
+    "runtime~main.js": "/swipecard/static/js/runtime~main.2dd38853.js",
+    "runtime~main.js.map": "/swipecard/static/js/runtime~main.2dd38853.js.map",
+    "static/js/2.d190dc04.chunk.js": "/swipecard/static/js/2.d190dc04.chunk.js",
+    "static/js/2.d190dc04.chunk.js.map": "/swipecard/static/js/2.d190dc04.chunk.js.map",
+    "index.html": "/swipecard/index.html",
+    "precache-manifest.56bfa0407e6afa3d377bf5d18aaca843.js": "/swipecard/precache-manifest.56bfa0407e6afa3d377bf5d18aaca843.js",
+    "service-worker.js": "/swipecard/service-worker.js",
+    "static/css/main.87f2ff25.chunk.css.map": "/swipecard/static/css/main.87f2ff25.chunk.css.map"
+  }
+}
